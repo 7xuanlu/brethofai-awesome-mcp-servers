@@ -144,7 +144,7 @@ Reference implementations from Anthropic, kept in [modelcontextprotocol/servers]
 - **[chroma](https://github.com/chroma-core/chroma-mcp)** — 🏷️ official ⚠️ mutating 🔒 local  
   ChromaDB collections, similarity search, persistent embeddings.
 - **[origin](https://github.com/7xuanlu/origin)** — 🏷️ community ⚠️ mutating 🔒 local
-  Local-first AI work memory with handoffs, distilled Markdown pages, and hybrid retrieval.
+  Local-first AI work memory with handoffs, source-backed wiki pages, and hybrid retrieval.
 - **[pinecone](https://github.com/pinecone-io/pinecone-mcp)** — 🏷️ official ⚠️ mutating  
   Pinecone managed vector search.
 - **[qdrant](https://github.com/qdrant/mcp-server-qdrant)** — 🏷️ official ⚠️ mutating  
