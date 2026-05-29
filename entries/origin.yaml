@@ -1,0 +1,13 @@
+name: origin
+slug: origin
+url: https://github.com/7xuanlu/origin
+category: vector-memory-stores
+category_label: Vector & Memory Stores
+tagline: Local-first AI work memory with handoffs, distilled Markdown pages, and hybrid retrieval.
+tags:
+- community
+- mutating
+- local
+list: mcp-servers
+added: '2026-05-29'
+category_order: 10

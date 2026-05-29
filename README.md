@@ -46,7 +46,7 @@ multiple forks compete, the most active fork at audit time wins.
 - [Communication](#communication) (3)
 - [Relational Databases](#relational-databases) (3)
 - [NoSQL & Document Databases](#nosql--document-databases) (2)
-- [Vector & Memory Stores](#vector--memory-stores) (4)
+- [Vector & Memory Stores](#vector--memory-stores) (5)
 - [Productivity & Notes](#productivity--notes) (4)
 - [Design & Creative](#design--creative) (1)
 - [Operations & Infrastructure](#operations--infrastructure) (4)
@@ -143,6 +143,8 @@ Reference implementations from Anthropic, kept in [modelcontextprotocol/servers]
 
 - **[chroma](https://github.com/chroma-core/chroma-mcp)** — 🏷️ official ⚠️ mutating 🔒 local  
   ChromaDB collections, similarity search, persistent embeddings.
+- **[origin](https://github.com/7xuanlu/origin)** — 🏷️ community ⚠️ mutating 🔒 local
+  Local-first AI work memory with handoffs, distilled Markdown pages, and hybrid retrieval.
 - **[pinecone](https://github.com/pinecone-io/pinecone-mcp)** — 🏷️ official ⚠️ mutating  
   Pinecone managed vector search.
 - **[qdrant](https://github.com/qdrant/mcp-server-qdrant)** — 🏷️ official ⚠️ mutating  
