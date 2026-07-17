@@ -8,7 +8,7 @@ tools listed here.
 
 ## What's expected
 
-- **Honest contributions.** Submit entries with verifiable receipts —
+- **Honest contributions.** Submit entries with verifiable receipts -
   link the pricing page, link the GitHub repo, link the docs. Don't
   paste marketing copy.
 - **Direct critique is welcome, personal attacks aren't.** Calling out
@@ -28,7 +28,7 @@ tools listed here.
 
 The repo maintainer (Brethof AI) reviews reports and may close PRs,
 lock issues, or block contributors as needed. For serious incidents,
-contact: marketing@brethofai.xyz
+contact: hello@brethof.ai
 
 ## Attribution
 
