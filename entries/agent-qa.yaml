@@ -1,0 +1,13 @@
+name: Agent QA
+slug: agent-qa
+url: https://github.com/vostride/agent-qa
+category: browser-automation
+category_label: Browser Automation
+tagline: Source-available application-QA harness for authoring, running, and triaging natural-language
+  web and mobile tests.
+tags:
+- community
+- mutating
+list: mcp-servers
+added: '2026-08-17'
+category_order: 4
